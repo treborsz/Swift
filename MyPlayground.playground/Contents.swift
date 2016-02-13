@@ -10,11 +10,11 @@ for numero in rango {
     {
          print ( "# \(numero) Bingo!!!" )
     }
-    else if numero % 2 == 0
+    if numero % 2 == 0
     {
         print ( "# \(numero) par")
     }
-    else if numero % 2 == 1
+    if numero % 2 == 1
     {
         print ("# \(numero) impar!!!")
     }
