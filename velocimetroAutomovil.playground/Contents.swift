@@ -43,7 +43,7 @@ class Auto{
             break
             
             case .VelocidadAlta:
-                Velocidad = Velocidades.Apagado
+                Velocidad = Velocidades.VelocidadMedia
                 velociadaEnCadena = "Velocidad Alta"
             break
             
